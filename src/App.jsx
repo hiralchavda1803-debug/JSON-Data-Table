@@ -33,6 +33,7 @@ function App() {
 
   return (
     <>
+    <h1 className="text-center my-4">Employee List</h1>
       <table className="table table-bordered table-striped table-hover text-center">
 
         <thead className="table-dark">

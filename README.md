@@ -41,3 +41,13 @@ employee-table
     
     -  db.json
     - README.md
+
+
+## 🖼️ Images
+
+![Project Screenshot](./src/assets/ss-1.png)
+
+
+## 🎦Video
+
+https://drive.google.com/file/d/1Gb9PZDekWi-SrEay-YXOyfSIIsp1Tkrv/view?usp=sharing
