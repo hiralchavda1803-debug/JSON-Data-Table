@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(135deg, #eef2ff, #f8fafc);
+    min-height: 100vh;
+}
+
+.table {
+    width: 95%;
+    margin: 30px auto;
+    background-color: white;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+thead th {
+    background-color: #1e3a8a !important;
+    color: white;
+    padding: 14px;
+}
+
+tbody td {
+    padding: 12px;
+}
+
+tbody tr:hover {
+    background-color: #eef2ff;
+}
+
+tfoot {
+    background-color: #f1f5f9;
+}
+
+tfoot td {
+    padding: 15px;
+}

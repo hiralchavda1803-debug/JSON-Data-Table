@@ -1,0 +1,804 @@
+{
+    "employees": [
+        {
+            "id": "1",
+            "name": "Hiral Chavda",
+            "email": "hiral@gmail.com",
+            "phone": "9876543201",
+            "salary": 50000,
+            "department": "IT"
+        },
+        {
+            "id": "2",
+            "name": "Rahul Patel",
+            "email": "rahul@gmail.com",
+            "phone": "9876543202",
+            "salary": 45000,
+            "department": "HR"
+        },
+        {
+            "id": "3",
+            "name": "Priya Shah",
+            "email": "priya@gmail.com",
+            "phone": "9876543203",
+            "salary": 55000,
+            "department": "Development"
+        },
+        {
+            "id": "4",
+            "name": "Neha Patel",
+            "email": "neha@gmail.com",
+            "phone": "9876543204",
+            "salary": 48000,
+            "department": "Design"
+        },
+        {
+            "id": "5",
+            "name": "Amit Shah",
+            "email": "amit@gmail.com",
+            "phone": "9876543205",
+            "salary": 60000,
+            "department": "Development"
+        },
+        {
+            "id": "6",
+            "name": "Riya Mehta",
+            "email": "riya@gmail.com",
+            "phone": "9876543206",
+            "salary": 52000,
+            "department": "Marketing"
+        },
+        {
+            "id": "7",
+            "name": "Karan Joshi",
+            "email": "karan@gmail.com",
+            "phone": "9876543207",
+            "salary": 47000,
+            "department": "Sales"
+        },
+        {
+            "id": "8",
+            "name": "Pooja Patel",
+            "email": "pooja@gmail.com",
+            "phone": "9876543208",
+            "salary": 58000,
+            "department": "IT"
+        },
+        {
+            "id": "9",
+            "name": "Vivek Shah",
+            "email": "vivek@gmail.com",
+            "phone": "9876543209",
+            "salary": 62000,
+            "department": "Finance"
+        },
+        {
+            "id": "10",
+            "name": "Anjali Mehta",
+            "email": "anjali@gmail.com",
+            "phone": "9876543210",
+            "salary": 51000,
+            "department": "HR"
+        },
+        {
+            "id": "11",
+            "name": "Dev Patel",
+            "email": "dev@gmail.com",
+            "phone": "9876543211",
+            "salary": 49000,
+            "department": "IT"
+        },
+        {
+            "id": "12",
+            "name": "Sneha Shah",
+            "email": "sneha@gmail.com",
+            "phone": "9876543212",
+            "salary": 54000,
+            "department": "Design"
+        },
+        {
+            "id": "13",
+            "name": "Akash Patel",
+            "email": "akash@gmail.com",
+            "phone": "9876543213",
+            "salary": 57000,
+            "department": "Development"
+        },
+        {
+            "id": "14",
+            "name": "Komal Joshi",
+            "email": "komal@gmail.com",
+            "phone": "9876543214",
+            "salary": 46000,
+            "department": "HR"
+        },
+        {
+            "id": "15",
+            "name": "Yash Mehta",
+            "email": "yash@gmail.com",
+            "phone": "9876543215",
+            "salary": 61000,
+            "department": "IT"
+        },
+        {
+            "id": "16",
+            "name": "Mansi Shah",
+            "email": "mansi@gmail.com",
+            "phone": "9876543216",
+            "salary": 53000,
+            "department": "Marketing"
+        },
+        {
+            "id": "17",
+            "name": "Nikhil Patel",
+            "email": "nikhil@gmail.com",
+            "phone": "9876543217",
+            "salary": 59000,
+            "department": "Sales"
+        },
+        {
+            "id": "18",
+            "name": "Kavya Shah",
+            "email": "kavya@gmail.com",
+            "phone": "9876543218",
+            "salary": 50000,
+            "department": "Finance"
+        },
+        {
+            "id": "19",
+            "name": "Dhruv Patel",
+            "email": "dhruv@gmail.com",
+            "phone": "9876543219",
+            "salary": 56000,
+            "department": "Development"
+        },
+        {
+            "id": "20",
+            "name": "Janki Mehta",
+            "email": "janki@gmail.com",
+            "phone": "9876543220",
+            "salary": 48000,
+            "department": "Design"
+        },
+        {
+            "id": "21",
+            "name": "Harsh Patel",
+            "email": "harsh@gmail.com",
+            "phone": "9876543221",
+            "salary": 52000,
+            "department": "IT"
+        },
+        {
+            "id": "22",
+            "name": "Hetal Shah",
+            "email": "hetal@gmail.com",
+            "phone": "9876543222",
+            "salary": 47000,
+            "department": "HR"
+        },
+        {
+            "id": "23",
+            "name": "Manav Patel",
+            "email": "manav@gmail.com",
+            "phone": "9876543223",
+            "salary": 63000,
+            "department": "Development"
+        },
+        {
+            "id": "24",
+            "name": "Nisha Shah",
+            "email": "nisha@gmail.com",
+            "phone": "9876543224",
+            "salary": 55000,
+            "department": "Marketing"
+        },
+        {
+            "id": "25",
+            "name": "Parth Mehta",
+            "email": "parth@gmail.com",
+            "phone": "9876543225",
+            "salary": 49000,
+            "department": "Sales"
+        },
+        {
+            "id": "26",
+            "name": "Khushi Patel",
+            "email": "khushi@gmail.com",
+            "phone": "9876543226",
+            "salary": 58000,
+            "department": "Finance"
+        },
+        {
+            "id": "27",
+            "name": "Jay Shah",
+            "email": "jay@gmail.com",
+            "phone": "9876543227",
+            "salary": 51000,
+            "department": "IT"
+        },
+        {
+            "id": "28",
+            "name": "Disha Patel",
+            "email": "disha@gmail.com",
+            "phone": "9876543228",
+            "salary": 46000,
+            "department": "HR"
+        },
+        {
+            "id": "29",
+            "name": "Meet Mehta",
+            "email": "meet@gmail.com",
+            "phone": "9876543229",
+            "salary": 60000,
+            "department": "Development"
+        },
+        {
+            "id": "30",
+            "name": "Tina Shah",
+            "email": "tina@gmail.com",
+            "phone": "9876543230",
+            "salary": 53000,
+            "department": "Design"
+        },
+        {
+            "id": "31",
+            "name": "Rohan Patel",
+            "email": "rohan@gmail.com",
+            "phone": "9876543231",
+            "salary": 57000,
+            "department": "IT"
+        },
+        {
+            "id": "32",
+            "name": "Isha Shah",
+            "email": "isha@gmail.com",
+            "phone": "9876543232",
+            "salary": 49000,
+            "department": "Marketing"
+        },
+        {
+            "id": "33",
+            "name": "Mihir Patel",
+            "email": "mihir@gmail.com",
+            "phone": "9876543233",
+            "salary": 62000,
+            "department": "Finance"
+        },
+        {
+            "id": "34",
+            "name": "Simran Mehta",
+            "email": "simran@gmail.com",
+            "phone": "9876543234",
+            "salary": 51000,
+            "department": "HR"
+        },
+        {
+            "id": "35",
+            "name": "Ravi Shah",
+            "email": "ravi@gmail.com",
+            "phone": "9876543235",
+            "salary": 54000,
+            "department": "Development"
+        },
+        {
+            "id": "36",
+            "name": "Pinal Patel",
+            "email": "pinal@gmail.com",
+            "phone": "9876543236",
+            "salary": 48000,
+            "department": "Design"
+        },
+        {
+            "id": "37",
+            "name": "Vishal Mehta",
+            "email": "vishal@gmail.com",
+            "phone": "9876543237",
+            "salary": 59000,
+            "department": "IT"
+        },
+        {
+            "id": "38",
+            "name": "Riddhi Shah",
+            "email": "riddhi@gmail.com",
+            "phone": "9876543238",
+            "salary": 52000,
+            "department": "Sales"
+        },
+        {
+            "id": "39",
+            "name": "Sagar Patel",
+            "email": "sagar@gmail.com",
+            "phone": "9876543239",
+            "salary": 56000,
+            "department": "Marketing"
+        },
+        {
+            "id": "40",
+            "name": "Payal Mehta",
+            "email": "payal@gmail.com",
+            "phone": "9876543240",
+            "salary": 50000,
+            "department": "Finance"
+        },
+        {
+            "id": "41",
+            "name": "Tushar Patel",
+            "email": "tushar@gmail.com",
+            "phone": "9876543241",
+            "salary": 61000,
+            "department": "Development"
+        },
+        {
+            "id": "42",
+            "name": "Bhavika Shah",
+            "email": "bhavika@gmail.com",
+            "phone": "9876543242",
+            "salary": 47000,
+            "department": "HR"
+        },
+        {
+            "id": "43",
+            "name": "Maulik Patel",
+            "email": "maulik@gmail.com",
+            "phone": "9876543243",
+            "salary": 53000,
+            "department": "IT"
+        },
+        {
+            "id": "44",
+            "name": "Priti Shah",
+            "email": "priti@gmail.com",
+            "phone": "9876543244",
+            "salary": 58000,
+            "department": "Design"
+        },
+        {
+            "id": "45",
+            "name": "Jignesh Patel",
+            "email": "jignesh@gmail.com",
+            "phone": "9876543245",
+            "salary": 49000,
+            "department": "Sales"
+        },
+        {
+            "id": "46",
+            "name": "Aarti Mehta",
+            "email": "aarti@gmail.com",
+            "phone": "9876543246",
+            "salary": 55000,
+            "department": "Marketing"
+        },
+        {
+            "id": "47",
+            "name": "Rakesh Shah",
+            "email": "rakesh@gmail.com",
+            "phone": "9876543247",
+            "salary": 62000,
+            "department": "Finance"
+        },
+        {
+            "id": "48",
+            "name": "Nidhi Patel",
+            "email": "nidhi@gmail.com",
+            "phone": "9876543248",
+            "salary": 51000,
+            "department": "IT"
+        },
+        {
+            "id": "49",
+            "name": "Kishan Mehta",
+            "email": "kishan@gmail.com",
+            "phone": "9876543249",
+            "salary": 57000,
+            "department": "Development"
+        },
+        {
+            "id": "50",
+            "name": "Sonali Shah",
+            "email": "sonali@gmail.com",
+            "phone": "9876543250",
+            "salary": 46000,
+            "department": "HR"
+        },
+        {
+            "id": "51",
+            "name": "Vraj Patel",
+            "email": "vraj@gmail.com",
+            "phone": "9876543251",
+            "salary": 54000,
+            "department": "Design"
+        },
+        {
+            "id": "52",
+            "name": "Heena Shah",
+            "email": "heena@gmail.com",
+            "phone": "9876543252",
+            "salary": 50000,
+            "department": "Marketing"
+        },
+        {
+            "id": "53",
+            "name": "Darshan Patel",
+            "email": "darshan@gmail.com",
+            "phone": "9876543253",
+            "salary": 60000,
+            "department": "IT"
+        },
+        {
+            "id": "54",
+            "name": "Rupal Mehta",
+            "email": "rupal@gmail.com",
+            "phone": "9876543254",
+            "salary": 52000,
+            "department": "Finance"
+        },
+        {
+            "id": "55",
+            "name": "Chirag Shah",
+            "email": "chirag@gmail.com",
+            "phone": "9876543255",
+            "salary": 58000,
+            "department": "Development"
+        },
+        {
+            "id": "56",
+            "name": "Mitali Patel",
+            "email": "mitali@gmail.com",
+            "phone": "9876543256",
+            "salary": 48000,
+            "department": "HR"
+        },
+        {
+            "id": "57",
+            "name": "Nirav Mehta",
+            "email": "nirav@gmail.com",
+            "phone": "9876543257",
+            "salary": 56000,
+            "department": "Sales"
+        },
+        {
+            "id": "58",
+            "name": "Krisha Shah",
+            "email": "krisha@gmail.com",
+            "phone": "9876543258",
+            "salary": 51000,
+            "department": "Design"
+        },
+        {
+            "id": "59",
+            "name": "Ritesh Patel",
+            "email": "ritesh@gmail.com",
+            "phone": "9876543259",
+            "salary": 63000,
+            "department": "IT"
+        },
+        {
+            "id": "60",
+            "name": "Vidhi Mehta",
+            "email": "vidhi@gmail.com",
+            "phone": "9876543260",
+            "salary": 53000,
+            "department": "Marketing"
+        },
+        {
+            "id": "61",
+            "name": "Bhavin Shah",
+            "email": "bhavin@gmail.com",
+            "phone": "9876543261",
+            "salary": 59000,
+            "department": "Development"
+        },
+        {
+            "id": "62",
+            "name": "Kajal Patel",
+            "email": "kajal@gmail.com",
+            "phone": "9876543262",
+            "salary": 47000,
+            "department": "HR"
+        },
+        {
+            "id": "63",
+            "name": "Tejas Mehta",
+            "email": "tejas@gmail.com",
+            "phone": "9876543263",
+            "salary": 55000,
+            "department": "Finance"
+        },
+        {
+            "id": "64",
+            "name": "Rina Shah",
+            "email": "rina@gmail.com",
+            "phone": "9876543264",
+            "salary": 49000,
+            "department": "Design"
+        },
+        {
+            "id": "65",
+            "name": "Alpesh Patel",
+            "email": "alpesh@gmail.com",
+            "phone": "9876543265",
+            "salary": 61000,
+            "department": "IT"
+        },
+        {
+            "id": "66",
+            "name": "Mona Mehta",
+            "email": "mona@gmail.com",
+            "phone": "9876543266",
+            "salary": 52000,
+            "department": "Sales"
+        },
+        {
+            "id": "67",
+            "name": "Kunal Shah",
+            "email": "kunal@gmail.com",
+            "phone": "9876543267",
+            "salary": 57000,
+            "department": "Development"
+        },
+        {
+            "id": "68",
+            "name": "Reena Patel",
+            "email": "reena@gmail.com",
+            "phone": "9876543268",
+            "salary": 50000,
+            "department": "Marketing"
+        },
+        {
+            "id": "69",
+            "name": "Hitesh Mehta",
+            "email": "hitesh@gmail.com",
+            "phone": "9876543269",
+            "salary": 54000,
+            "department": "Finance"
+        },
+        {
+            "id": "70",
+            "name": "Nikita Shah",
+            "email": "nikita@gmail.com",
+            "phone": "9876543270",
+            "salary": 46000,
+            "department": "HR"
+        },
+        {
+            "id": "71",
+            "name": "Smit Patel",
+            "email": "smit@gmail.com",
+            "phone": "9876543271",
+            "salary": 60000,
+            "department": "IT"
+        },
+        {
+            "id": "72",
+            "name": "Roshni Mehta",
+            "email": "roshni@gmail.com",
+            "phone": "9876543272",
+            "salary": 53000,
+            "department": "Design"
+        },
+        {
+            "id": "73",
+            "name": "Yuvraj Shah",
+            "email": "yuvraj@gmail.com",
+            "phone": "9876543273",
+            "salary": 58000,
+            "department": "Development"
+        },
+        {
+            "id": "74",
+            "name": "Krupa Patel",
+            "email": "krupa@gmail.com",
+            "phone": "9876543274",
+            "salary": 49000,
+            "department": "Marketing"
+        },
+        {
+            "id": "75",
+            "name": "Raj Mehta",
+            "email": "raj@gmail.com",
+            "phone": "9876543275",
+            "salary": 62000,
+            "department": "Finance"
+        },
+        {
+            "id": "76",
+            "name": "Sonam Shah",
+            "email": "sonam@gmail.com",
+            "phone": "9876543276",
+            "salary": 51000,
+            "department": "HR"
+        },
+        {
+            "id": "77",
+            "name": "Akshay Patel",
+            "email": "akshay@gmail.com",
+            "phone": "9876543277",
+            "salary": 55000,
+            "department": "IT"
+        },
+        {
+            "id": "78",
+            "name": "Komal Mehta",
+            "email": "komal2@gmail.com",
+            "phone": "9876543278",
+            "salary": 48000,
+            "department": "Sales"
+        },
+        {
+            "id": "79",
+            "name": "Nayan Shah",
+            "email": "nayan@gmail.com",
+            "phone": "9876543279",
+            "salary": 59000,
+            "department": "Development"
+        },
+        {
+            "id": "80",
+            "name": "Falguni Patel",
+            "email": "falguni@gmail.com",
+            "phone": "9876543280",
+            "salary": 52000,
+            "department": "Design"
+        },
+        {
+            "id": "81",
+            "name": "Hardik Mehta",
+            "email": "hardik@gmail.com",
+            "phone": "9876543281",
+            "salary": 61000,
+            "department": "IT"
+        },
+        {
+            "id": "82",
+            "name": "Meera Shah",
+            "email": "meera@gmail.com",
+            "phone": "9876543282",
+            "salary": 50000,
+            "department": "Marketing"
+        },
+        {
+            "id": "83",
+            "name": "Chetan Patel",
+            "email": "chetan@gmail.com",
+            "phone": "9876543283",
+            "salary": 56000,
+            "department": "Finance"
+        },
+        {
+            "id": "84",
+            "name": "Rupal Shah",
+            "email": "rupal2@gmail.com",
+            "phone": "9876543284",
+            "salary": 47000,
+            "department": "HR"
+        },
+        {
+            "id": "85",
+            "name": "Nilesh Mehta",
+            "email": "nilesh@gmail.com",
+            "phone": "9876543285",
+            "salary": 63000,
+            "department": "Development"
+        },
+        {
+            "id": "86",
+            "name": "Shreya Patel",
+            "email": "shreya@gmail.com",
+            "phone": "9876543286",
+            "salary": 54000,
+            "department": "Design"
+        },
+        {
+            "id": "87",
+            "name": "Suresh Shah",
+            "email": "suresh@gmail.com",
+            "phone": "9876543287",
+            "salary": 51000,
+            "department": "Sales"
+        },
+        {
+            "id": "88",
+            "name": "Mansi Mehta",
+            "email": "mansi2@gmail.com",
+            "phone": "9876543288",
+            "salary": 58000,
+            "department": "IT"
+        },
+        {
+            "id": "89",
+            "name": "Pratik Patel",
+            "email": "pratik@gmail.com",
+            "phone": "9876543289",
+            "salary": 49000,
+            "department": "Marketing"
+        },
+        {
+            "id": "90",
+            "name": "Divya Shah",
+            "email": "divya@gmail.com",
+            "phone": "9876543290",
+            "salary": 55000,
+            "department": "Finance"
+        },
+        {
+            "id": "91",
+            "name": "Rohit Mehta",
+            "email": "rohit@gmail.com",
+            "phone": "9876543291",
+            "salary": 60000,
+            "department": "Development"
+        },
+        {
+            "id": "92",
+            "name": "Ayesha Patel",
+            "email": "ayesha@gmail.com",
+            "phone": "9876543292",
+            "salary": 52000,
+            "department": "HR"
+        },
+        {
+            "id": "93",
+            "name": "Gaurav Shah",
+            "email": "gaurav@gmail.com",
+            "phone": "9876543293",
+            "salary": 57000,
+            "department": "IT"
+        },
+        {
+            "id": "94",
+            "name": "Monika Mehta",
+            "email": "monika@gmail.com",
+            "phone": "9876543294",
+            "salary": 48000,
+            "department": "Design"
+        },
+        {
+            "id": "95",
+            "name": "Sahil Patel",
+            "email": "sahil@gmail.com",
+            "phone": "9876543295",
+            "salary": 62000,
+            "department": "Development"
+        },
+        {
+            "id": "96",
+            "name": "Poonam Shah",
+            "email": "poonam@gmail.com",
+            "phone": "9876543296",
+            "salary": 53000,
+            "department": "Marketing"
+        },
+        {
+            "id": "97",
+            "name": "Ankit Mehta",
+            "email": "ankit@gmail.com",
+            "phone": "9876543297",
+            "salary": 59000,
+            "department": "Finance"
+        },
+        {
+            "id": "98",
+            "name": "Rachna Patel",
+            "email": "rachna@gmail.com",
+            "phone": "9876543298",
+            "salary": 50000,
+            "department": "HR"
+        },
+        {
+            "id": "99",
+            "name": "Vishal Shah",
+            "email": "vishal2@gmail.com",
+            "phone": "9876543299",
+            "salary": 61000,
+            "department": "IT"
+        },
+        {
+            "id": "100",
+            "name": "Tanvi Mehta",
+            "email": "tanvi@gmail.com",
+            "phone": "9876543300",
+            "salary": 54000,
+            "department": "Design"
+        }
+    ]
+}
